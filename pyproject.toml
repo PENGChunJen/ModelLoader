@@ -1,0 +1,5 @@
+# Build system information below.
+
+[build-system]
+requires = ["setuptools>=41.0", "setuptools-scm", "wheel"]
+build-backend = "setuptools.build_meta"
